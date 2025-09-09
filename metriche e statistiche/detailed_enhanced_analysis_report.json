@@ -1,0 +1,287 @@
+[
+  {
+    "filename": "audio_000_pop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -18.574501353027923,
+    "max_significant_frequency_hz": 16000.0,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 5346.049496101507,
+    "spectral_bandwidth_hz": 3557.5016362046586,
+    "spectral_rolloff_hz": 9049.683179723503,
+    "energy_distribution": {
+      "low_freq_energy": 0.8626307249069214,
+      "mid_freq_energy": 0.06790803372859955,
+      "high_freq_energy": 0.06946119666099548
+    },
+    "snr_real_db": 4.435473442077637,
+    "prompt": "energetic synth pop track",
+    "genre": "pop",
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_001_pop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -22.675920396444297,
+    "max_significant_frequency_hz": 16000.0,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 3170.842761953989,
+    "spectral_bandwidth_hz": 3036.4022607395214,
+    "spectral_rolloff_hz": 5640.300979262673,
+    "energy_distribution": {
+      "low_freq_energy": 0.6974512934684753,
+      "mid_freq_energy": 0.2127617597579956,
+      "high_freq_energy": 0.08978698402643204
+    },
+    "snr_real_db": 4.126226425170898,
+    "prompt": "calm pop song with synth",
+    "genre": "pop",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_002_pop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -15.993957782276814,
+    "max_significant_frequency_hz": 15890.625,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 2807.116148698624,
+    "spectral_bandwidth_hz": 3100.4921648237955,
+    "spectral_rolloff_hz": 5800.583237327189,
+    "energy_distribution": {
+      "low_freq_energy": 0.8597416877746582,
+      "mid_freq_energy": 0.11587586998939514,
+      "high_freq_energy": 0.02438248135149479
+    },
+    "snr_real_db": 8.421500205993652,
+    "prompt": "dark pop song with piano",
+    "genre": "pop",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_003_rock.wav",
+    "duration": 6.94,
+    "loudness_lufs": -15.817965251437357,
+    "max_significant_frequency_hz": 15703.125,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 2653.9258603622748,
+    "spectral_bandwidth_hz": 2177.5073054116097,
+    "spectral_rolloff_hz": 4979.982718894009,
+    "energy_distribution": {
+      "low_freq_energy": 0.3530727028846741,
+      "mid_freq_energy": 0.5438989996910095,
+      "high_freq_energy": 0.103028304874897
+    },
+    "snr_real_db": 8.80942153930664,
+    "prompt": "dark piano rock music",
+    "genre": "rock",
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_004_rock.wav",
+    "duration": 6.94,
+    "loudness_lufs": -16.95334139667353,
+    "max_significant_frequency_hz": 15921.875,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 3825.3882014705423,
+    "spectral_bandwidth_hz": 3439.6687776626727,
+    "spectral_rolloff_hz": 7506.516417050691,
+    "energy_distribution": {
+      "low_freq_energy": 0.8860099911689758,
+      "mid_freq_energy": 0.07722978293895721,
+      "high_freq_energy": 0.03676024451851845
+    },
+    "snr_real_db": 8.367715835571289,
+    "prompt": "dark rock song with drums",
+    "genre": "rock",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_005_rock.wav",
+    "duration": 6.94,
+    "loudness_lufs": -14.000001774522863,
+    "max_significant_frequency_hz": 15609.375,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 3450.3568484802563,
+    "spectral_bandwidth_hz": 1892.298622812225,
+    "spectral_rolloff_hz": 5243.807603686636,
+    "energy_distribution": {
+      "low_freq_energy": 0.445080041885376,
+      "mid_freq_energy": 0.3411221504211426,
+      "high_freq_energy": 0.21379780769348145
+    },
+    "snr_real_db": 10.067205429077148,
+    "prompt": "sad guitar rock music",
+    "genre": "rock",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_006_lofi.wav",
+    "duration": 6.94,
+    "loudness_lufs": -19.841760242194063,
+    "max_significant_frequency_hz": 16000.0,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 1864.2553424084385,
+    "spectral_bandwidth_hz": 1881.9176963460473,
+    "spectral_rolloff_hz": 3451.648905529954,
+    "energy_distribution": {
+      "low_freq_energy": 0.7848702073097229,
+      "mid_freq_energy": 0.18286874890327454,
+      "high_freq_energy": 0.032261088490486145
+    },
+    "snr_real_db": 6.914184093475342,
+    "prompt": "calm piano lofi chill",
+    "genre": "lofi",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_007_lofi.wav",
+    "duration": 6.94,
+    "loudness_lufs": -22.32292154302013,
+    "max_significant_frequency_hz": 16000.0,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 2000.2618877133677,
+    "spectral_bandwidth_hz": 2084.5245388351045,
+    "spectral_rolloff_hz": 3069.7004608294933,
+    "energy_distribution": {
+      "low_freq_energy": 0.8770034313201904,
+      "mid_freq_energy": 0.08045937865972519,
+      "high_freq_energy": 0.042537104338407516
+    },
+    "snr_real_db": 4.592471122741699,
+    "prompt": "energetic lofi beat with drums",
+    "genre": "lofi",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_008_lofi.wav",
+    "duration": 6.94,
+    "loudness_lufs": -19.43476949171447,
+    "max_significant_frequency_hz": 15953.125,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 2370.0536414498774,
+    "spectral_bandwidth_hz": 2692.804781758692,
+    "spectral_rolloff_hz": 4964.7537442396315,
+    "energy_distribution": {
+      "low_freq_energy": 0.8008429408073425,
+      "mid_freq_energy": 0.17303673923015594,
+      "high_freq_energy": 0.026120349764823914
+    },
+    "snr_real_db": 8.153034210205078,
+    "prompt": "happy synth lofi chill",
+    "genre": "lofi",
+    "mood": "dark"
+  },
+  {
+    "filename": "audio_009_electronic.wav",
+    "duration": 6.94,
+    "loudness_lufs": -20.081458921447027,
+    "max_significant_frequency_hz": 15671.875,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 968.0022416176129,
+    "spectral_bandwidth_hz": 2012.4926201363103,
+    "spectral_rolloff_hz": 1457.8052995391706,
+    "energy_distribution": {
+      "low_freq_energy": 0.8973726630210876,
+      "mid_freq_energy": 0.0982019305229187,
+      "high_freq_energy": 0.004425388760864735
+    },
+    "snr_real_db": 4.8951334953308105,
+    "prompt": "sad electronic track with piano",
+    "genre": "electronic",
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_010_electronic.wav",
+    "duration": 6.94,
+    "loudness_lufs": -18.55124785429465,
+    "max_significant_frequency_hz": 15796.875,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 2190.7732755727175,
+    "spectral_bandwidth_hz": 2822.9479466208622,
+    "spectral_rolloff_hz": 4418.706797235023,
+    "energy_distribution": {
+      "low_freq_energy": 0.9641582369804382,
+      "mid_freq_energy": 0.020115500316023827,
+      "high_freq_energy": 0.015726301819086075
+    },
+    "snr_real_db": 6.264333724975586,
+    "prompt": "dark electronic track with drums",
+    "genre": "electronic",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_011_electronic.wav",
+    "duration": 6.94,
+    "loudness_lufs": -16.471296510362674,
+    "max_significant_frequency_hz": 15218.75,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 888.467286352769,
+    "spectral_bandwidth_hz": 1274.1980095066117,
+    "spectral_rolloff_hz": 1345.9461405529953,
+    "energy_distribution": {
+      "low_freq_energy": 0.6221089363098145,
+      "mid_freq_energy": 0.3726571500301361,
+      "high_freq_energy": 0.005233996082097292
+    },
+    "snr_real_db": 18.74201011657715,
+    "prompt": "dark piano electronic music",
+    "genre": "electronic",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_012_hip-hop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -21.913033052770952,
+    "max_significant_frequency_hz": 16000.0,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 1435.584876098449,
+    "spectral_bandwidth_hz": 1825.7079667234955,
+    "spectral_rolloff_hz": 2610.5630760368663,
+    "energy_distribution": {
+      "low_freq_energy": 0.8926618099212646,
+      "mid_freq_energy": 0.08217605203390121,
+      "high_freq_energy": 0.0251621026545763
+    },
+    "snr_real_db": 1.8926554918289185,
+    "prompt": "dark hip-hop beat with piano",
+    "genre": "hip-hop",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_013_hip-hop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -16.816035175303394,
+    "max_significant_frequency_hz": 15953.125,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 4806.359756230847,
+    "spectral_bandwidth_hz": 2892.3160539350424,
+    "spectral_rolloff_hz": 7707.985311059908,
+    "energy_distribution": {
+      "low_freq_energy": 0.8867741823196411,
+      "mid_freq_energy": 0.05072164162993431,
+      "high_freq_energy": 0.06250414997339249
+    },
+    "snr_real_db": 5.223954200744629,
+    "prompt": "energetic hip-hop beat with guitar",
+    "genre": "hip-hop",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_014_hip-hop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -15.925691233073124,
+    "max_significant_frequency_hz": 16000.0,
+    "sample_rate": 32000,
+    "spectral_centroid_hz": 5356.749941439182,
+    "spectral_bandwidth_hz": 2632.8619260687665,
+    "spectral_rolloff_hz": 8013.716877880184,
+    "energy_distribution": {
+      "low_freq_energy": 0.7883473634719849,
+      "mid_freq_energy": 0.07080742716789246,
+      "high_freq_energy": 0.1408451497554779
+    },
+    "snr_real_db": 2.2213873863220215,
+    "prompt": "energetic hip-hop beat with guitar",
+    "genre": "hip-hop",
+    "mood": "happy"
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-09T16:33:30.273389",
+  "overall_improvement": {
+    "loudness_improvement_dsp_db": -1.6958176869761132,
+    "loudness_improvement_demucs_db": 2.5450711478969748,
+    "frequency_improvement_dsp_hz": 667.7083333333321,
+    "frequency_improvement_demucs_hz": 4427.926432291666,
+    "sample_rate_upgrade": 12100
+  },
+  "main_metrics": [
+    {
+      "Metrica": "Loudness (LUFS)",
+      "Originale": -16.6624424449281,
+      "DSP": -18.358260131904213,
+      "Demucs+DSP": -14.117371297031125,
+      "Miglioramento_DSP": -1.6958176869761132,
+      "Miglioramento_Demucs": 2.5450711478969748
+    },
+    {
+      "Metrica": "Frequenza Max (Hz)",
+      "Originale": 15180.208333333334,
+      "DSP": 15847.916666666666,
+      "Demucs+DSP": 19608.134765625,
+      "Miglioramento_DSP": 667.7083333333321,
+      "Miglioramento_Demucs": 4427.926432291666
+    },
+    {
+      "Metrica": "SNR (dB)",
+      "Originale": 8.773751037071149,
+      "DSP": 6.8751137812932335,
+      "Demucs+DSP": -3.6740726947784426,
+      "Miglioramento_DSP": -1.8986372557779152,
+      "Miglioramento_Demucs": -12.447823731849592
+    },
+    {
+      "Metrica": "Sample Rate (Hz)",
+      "Originale": 32000.0,
+      "DSP": 32000.0,
+      "Demucs+DSP": 44100.0,
+      "Miglioramento_DSP": 0.0,
+      "Miglioramento_Demucs": 12100.0
+    }
+  ],
+  "loudness_by_genre": [
+    {
+      "Genere": "pop",
+      "Originale_LUFS": -18.13205169403312,
+      "DSP_LUFS": -19.081459843916345,
+      "Demucs+DSP_LUFS": -14.06276091424546,
+      "Miglioramento_DSP": -0.9494081498832259,
+      "Miglioramento_Demucs": 4.069290779787659
+    },
+    {
+      "Genere": "rock",
+      "Originale_LUFS": -14.103156163950857,
+      "DSP_LUFS": -15.590436140877918,
+      "Demucs+DSP_LUFS": -14.000364139098144,
+      "Miglioramento_DSP": -1.487279976927061,
+      "Miglioramento_Demucs": 0.10279202485271277
+    },
+    {
+      "Genere": "lofi",
+      "Originale_LUFS": -17.87672197286856,
+      "DSP_LUFS": -20.533150425642887,
+      "Demucs+DSP_LUFS": -14.362101713211894,
+      "Miglioramento_DSP": -2.6564284527743283,
+      "Miglioramento_Demucs": 3.514620259656665
+    },
+    {
+      "Genere": "electronic",
+      "Originale_LUFS": -17.32280059637449,
+      "DSP_LUFS": -18.36800109536812,
+      "Demucs+DSP_LUFS": -14.010430447217056,
+      "Miglioramento_DSP": -1.0452004989936299,
+      "Miglioramento_Demucs": 3.3123701491574327
+    },
+    {
+      "Genere": "hip-hop",
+      "Originale_LUFS": -15.87748179741348,
+      "DSP_LUFS": -18.218253153715825,
+      "Demucs+DSP_LUFS": -14.151199271383078,
+      "Miglioramento_DSP": -2.3407713563023442,
+      "Miglioramento_Demucs": 1.7262825260304027
+    }
+  ],
+  "frequency_by_genre": [
+    {
+      "Genere": "pop",
+      "Originale_Hz": 15833.333333333334,
+      "DSP_Hz": 15963.541666666666,
+      "Demucs+DSP_Hz": 20851.318359375,
+      "Miglioramento_DSP": 130.20833333333212,
+      "Miglioramento_Demucs": 5017.985026041666
+    },
+    {
+      "Genere": "rock",
+      "Originale_Hz": 15588.541666666666,
+      "DSP_Hz": 15744.791666666666,
+      "Demucs+DSP_Hz": 18418.06640625,
+      "Miglioramento_DSP": 156.25,
+      "Miglioramento_Demucs": 2829.524739583334
+    },
+    {
+      "Genere": "lofi",
+      "Originale_Hz": 15140.625,
+      "DSP_Hz": 15984.375,
+      "Demucs+DSP_Hz": 21203.02734375,
+      "Miglioramento_DSP": 843.75,
+      "Miglioramento_Demucs": 6062.40234375
+    },
+    {
+      "Genere": "electronic",
+      "Originale_Hz": 13911.458333333334,
+      "DSP_Hz": 15562.5,
+      "Demucs+DSP_Hz": 16422.65625,
+      "Miglioramento_DSP": 1651.041666666666,
+      "Miglioramento_Demucs": 2511.197916666666
+    },
+    {
+      "Genere": "hip-hop",
+      "Originale_Hz": 15427.083333333334,
+      "DSP_Hz": 15984.375,
+      "Demucs+DSP_Hz": 21145.60546875,
+      "Miglioramento_DSP": 557.2916666666661,
+      "Miglioramento_Demucs": 5718.522135416666
+    }
+  ]
+}

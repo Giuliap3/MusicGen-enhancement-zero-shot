@@ -1,0 +1,34 @@
+{
+  "general_stats": {
+    "num_samples": 15,
+    "mean_loudness_lufs": -16.6624424449281,
+    "mean_snr_estimate_db": 8.773751037071149,
+    "mean_max_significant_frequency_hz": 15180.208333333334
+  },
+  "loudness_by_genre": {
+    "pop": -18.13205169403312,
+    "rock": -14.103156163950857,
+    "lofi": -17.87672197286856,
+    "electronic": -17.32280059637449,
+    "hip-hop": -15.87748179741348
+  },
+  "snr_by_genre": {
+    "pop": 2.1863503456115723,
+    "rock": 3.193313399950663,
+    "lofi": 15.455393473307291,
+    "electronic": 10.39420489470164,
+    "hip-hop": 12.639493071784576
+  },
+  "freq_by_genre": {
+    "pop": 15833.333333333334,
+    "rock": 15588.541666666666,
+    "lofi": 15140.625,
+    "electronic": 13911.458333333334,
+    "hip-hop": 15427.083333333334
+  },
+  "common_issues": {
+    "low_loudness_count": 2,
+    "low_snr_count": 6,
+    "limited_freq_count": 0
+  }
+}

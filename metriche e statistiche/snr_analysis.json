@@ -1,0 +1,142 @@
+[
+  {
+    "filename": "audio_006_lofi.wav",
+    "snr_db": -4.908627510070801,
+    "band_analysis": {
+      "sub_bass": {
+        "original_energy": 21.46773338317871,
+        "diff_energy": 62.89226150512695,
+        "energy_ratio": 2.9296181201934814
+      },
+      "bass": {
+        "original_energy": 12.355772018432617,
+        "diff_energy": 25.99452781677246,
+        "energy_ratio": 2.10383677482605
+      },
+      "mid": {
+        "original_energy": 1.9544874429702759,
+        "diff_energy": 3.696540355682373,
+        "energy_ratio": 1.891309380531311
+      },
+      "high": {
+        "original_energy": 0.1427069902420044,
+        "diff_energy": 0.32511022686958313,
+        "energy_ratio": 2.2781660556793213
+      }
+    },
+    "high_freq_enhancement": 0.006954176351428032,
+    "is_legitimate_enhancement": true
+  },
+  {
+    "filename": "audio_004_rock.wav",
+    "snr_db": -3.4109225273132324,
+    "band_analysis": {
+      "sub_bass": {
+        "original_energy": 12.892526626586914,
+        "diff_energy": 30.748388290405273,
+        "energy_ratio": 2.3849775791168213
+      },
+      "bass": {
+        "original_energy": 32.896141052246094,
+        "diff_energy": 54.541221618652344,
+        "energy_ratio": 1.657982349395752
+      },
+      "mid": {
+        "original_energy": 2.0688183307647705,
+        "diff_energy": 2.9914510250091553,
+        "energy_ratio": 1.445970892906189
+      },
+      "high": {
+        "original_energy": 0.4885825216770172,
+        "diff_energy": 0.5773105621337891,
+        "energy_ratio": 1.181602954864502
+      }
+    },
+    "high_freq_enhancement": 0.20243240892887115,
+    "is_legitimate_enhancement": true
+  },
+  {
+    "filename": "audio_002_pop.wav",
+    "snr_db": -3.0991709232330322,
+    "band_analysis": {
+      "sub_bass": {
+        "original_energy": 37.50069808959961,
+        "diff_energy": 45.17769241333008,
+        "energy_ratio": 1.2047160863876343
+      },
+      "bass": {
+        "original_energy": 27.257253646850586,
+        "diff_energy": 34.2647705078125,
+        "energy_ratio": 1.2570881843566895
+      },
+      "mid": {
+        "original_energy": 3.3411717414855957,
+        "diff_energy": 6.423208236694336,
+        "energy_ratio": 1.922441840171814
+      },
+      "high": {
+        "original_energy": 0.2670705318450928,
+        "diff_energy": 0.355602502822876,
+        "energy_ratio": 1.3314929008483887
+      }
+    },
+    "high_freq_enhancement": 0.1317923218011856,
+    "is_legitimate_enhancement": true
+  },
+  {
+    "filename": "audio_010_electronic.wav",
+    "snr_db": -3.0774881839752197,
+    "band_analysis": {
+      "sub_bass": {
+        "original_energy": 59.58763885498047,
+        "diff_energy": 117.33684539794922,
+        "energy_ratio": 1.9691474437713623
+      },
+      "bass": {
+        "original_energy": 23.61302947998047,
+        "diff_energy": 31.227542877197266,
+        "energy_ratio": 1.322470784187317
+      },
+      "mid": {
+        "original_energy": 0.38571012020111084,
+        "diff_energy": 0.7472969889640808,
+        "energy_ratio": 1.93745756149292
+      },
+      "high": {
+        "original_energy": 0.11955863982439041,
+        "diff_energy": 0.21365931630134583,
+        "energy_ratio": 1.787067174911499
+      }
+    },
+    "high_freq_enhancement": 0.03254315257072449,
+    "is_legitimate_enhancement": true
+  },
+  {
+    "filename": "audio_007_lofi.wav",
+    "snr_db": -4.159054279327393,
+    "band_analysis": {
+      "sub_bass": {
+        "original_energy": 14.17505931854248,
+        "diff_energy": 36.59146499633789,
+        "energy_ratio": 2.581397771835327
+      },
+      "bass": {
+        "original_energy": 7.364477634429932,
+        "diff_energy": 13.853814125061035,
+        "energy_ratio": 1.8811672925949097
+      },
+      "mid": {
+        "original_energy": 0.5892230272293091,
+        "diff_energy": 1.2729824781417847,
+        "energy_ratio": 2.160442590713501
+      },
+      "high": {
+        "original_energy": 0.11210335791110992,
+        "diff_energy": 0.2757145166397095,
+        "energy_ratio": 2.4594671726226807
+      }
+    },
+    "high_freq_enhancement": 0.011586315929889679,
+    "is_legitimate_enhancement": true
+  }
+]

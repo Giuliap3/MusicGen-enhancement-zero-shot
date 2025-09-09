@@ -1,0 +1,80 @@
+{
+  "general_stats": {
+    "num_samples": 15,
+    "mean_loudness_lufs": -18.358260131904213,
+    "mean_snr_real_db": 6.8751137812932335,
+    "mean_max_significant_frequency_hz": 15847.916666666666,
+    "mean_spectral_centroid_hz": 2875.612504396697,
+    "mean_spectral_bandwidth_hz": 2488.242820505694,
+    "mean_spectral_rolloff_hz": 5017.446716589862
+  },
+  "loudness_by_genre": {
+    "pop": -19.081459843916345,
+    "rock": -15.590436140877918,
+    "lofi": -20.533150425642887,
+    "electronic": -18.36800109536812,
+    "hip-hop": -18.218253153715825
+  },
+  "snr_real_by_genre": {
+    "pop": 5.6610666910807295,
+    "rock": 9.08144760131836,
+    "lofi": 6.553229808807373,
+    "electronic": 9.967159112294516,
+    "hip-hop": 3.1126656929651895
+  },
+  "freq_by_genre": {
+    "pop": 15963.541666666666,
+    "rock": 15744.791666666666,
+    "lofi": 15984.375,
+    "electronic": 15562.5,
+    "hip-hop": 15984.375
+  },
+  "spectral_centroid_by_genre": {
+    "pop": 3774.6694689180404,
+    "rock": 3309.8903034376913,
+    "lofi": 2078.1902905238944,
+    "electronic": 1349.0809345143664,
+    "hip-hop": 3866.231524589493
+  },
+  "spectral_bandwidth_by_genre": {
+    "pop": 3231.4653539226583,
+    "rock": 2503.1582352955024,
+    "lofi": 2219.7490056466145,
+    "electronic": 2036.5461920879281,
+    "hip-hop": 2450.295315575768
+  },
+  "energy_distribution_by_genre": {
+    "pop": {
+      "low_freq_percentage": 80.66079020500183,
+      "mid_freq_percentage": 13.21818878253301,
+      "high_freq_percentage": 6.121022067964077
+    },
+    "rock": {
+      "low_freq_percentage": 56.138757864634194,
+      "mid_freq_percentage": 32.075031101703644,
+      "high_freq_percentage": 11.786211902896564
+    },
+    "lofi": {
+      "low_freq_percentage": 82.09055264790854,
+      "mid_freq_percentage": 14.545495559771856,
+      "high_freq_percentage": 3.363951419790586
+    },
+    "electronic": {
+      "low_freq_percentage": 82.78799454371133,
+      "mid_freq_percentage": 16.365819362302624,
+      "high_freq_percentage": 0.8461895554016033
+    },
+    "hip-hop": {
+      "low_freq_percentage": 85.59277852376303,
+      "mid_freq_percentage": 6.790170694390933,
+      "high_freq_percentage": 7.61704674611489
+    }
+  },
+  "common_issues": {
+    "low_loudness_count": 4,
+    "low_snr_count": 6,
+    "limited_freq_count": 0,
+    "low_spectral_centroid_count": 2,
+    "narrow_bandwidth_count": 4
+  }
+}

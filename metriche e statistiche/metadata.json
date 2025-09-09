@@ -1,0 +1,137 @@
+[
+  {
+    "filename": "audio_000_pop.wav",
+    "filepath": "musicgen_dataset/audio_000_pop.wav",
+    "prompt": "energetic synth pop track",
+    "genre": "pop",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_001_pop.wav",
+    "filepath": "musicgen_dataset/audio_001_pop.wav",
+    "prompt": "calm pop song with synth",
+    "genre": "pop",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_002_pop.wav",
+    "filepath": "musicgen_dataset/audio_002_pop.wav",
+    "prompt": "dark pop song with piano",
+    "genre": "pop",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_003_rock.wav",
+    "filepath": "musicgen_dataset/audio_003_rock.wav",
+    "prompt": "dark piano rock music",
+    "genre": "rock",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_004_rock.wav",
+    "filepath": "musicgen_dataset/audio_004_rock.wav",
+    "prompt": "dark rock song with drums",
+    "genre": "rock",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_005_rock.wav",
+    "filepath": "musicgen_dataset/audio_005_rock.wav",
+    "prompt": "sad guitar rock music",
+    "genre": "rock",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_006_lofi.wav",
+    "filepath": "musicgen_dataset/audio_006_lofi.wav",
+    "prompt": "calm piano lofi chill",
+    "genre": "lofi",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_007_lofi.wav",
+    "filepath": "musicgen_dataset/audio_007_lofi.wav",
+    "prompt": "energetic lofi beat with drums",
+    "genre": "lofi",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_008_lofi.wav",
+    "filepath": "musicgen_dataset/audio_008_lofi.wav",
+    "prompt": "happy synth lofi chill",
+    "genre": "lofi",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "dark"
+  },
+  {
+    "filename": "audio_009_electronic.wav",
+    "filepath": "musicgen_dataset/audio_009_electronic.wav",
+    "prompt": "sad electronic track with piano",
+    "genre": "electronic",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_010_electronic.wav",
+    "filepath": "musicgen_dataset/audio_010_electronic.wav",
+    "prompt": "dark electronic track with drums",
+    "genre": "electronic",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_011_electronic.wav",
+    "filepath": "musicgen_dataset/audio_011_electronic.wav",
+    "prompt": "dark piano electronic music",
+    "genre": "electronic",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_012_hip-hop.wav",
+    "filepath": "musicgen_dataset/audio_012_hip-hop.wav",
+    "prompt": "dark hip-hop beat with piano",
+    "genre": "hip-hop",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_013_hip-hop.wav",
+    "filepath": "musicgen_dataset/audio_013_hip-hop.wav",
+    "prompt": "energetic hip-hop beat with guitar",
+    "genre": "hip-hop",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_014_hip-hop.wav",
+    "filepath": "musicgen_dataset/audio_014_hip-hop.wav",
+    "prompt": "energetic hip-hop beat with guitar",
+    "genre": "hip-hop",
+    "duration": 7,
+    "sample_rate": 32000,
+    "mood": "happy"
+  }
+]

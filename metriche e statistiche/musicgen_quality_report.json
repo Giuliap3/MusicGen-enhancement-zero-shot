@@ -1,0 +1,167 @@
+[
+  {
+    "filename": "audio_000_pop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -16.33818891129263,
+    "snr_estimate_db": 7.132311820983887,
+    "max_significant_frequency_hz": 15859.375,
+    "sample_rate": 32000,
+    "prompt": "energetic synth pop track",
+    "genre": "pop",
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_001_pop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -23.750423148388453,
+    "snr_estimate_db": -3.858896255493164,
+    "max_significant_frequency_hz": 15859.375,
+    "sample_rate": 32000,
+    "prompt": "calm pop song with synth",
+    "genre": "pop",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_002_pop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -14.307543022418278,
+    "snr_estimate_db": 3.285635471343994,
+    "max_significant_frequency_hz": 15781.25,
+    "sample_rate": 32000,
+    "prompt": "dark pop song with piano",
+    "genre": "pop",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_003_rock.wav",
+    "duration": 6.94,
+    "loudness_lufs": -14.491071502806529,
+    "snr_estimate_db": 3.3537721633911133,
+    "max_significant_frequency_hz": 15546.875,
+    "sample_rate": 32000,
+    "prompt": "dark piano rock music",
+    "genre": "rock",
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_004_rock.wav",
+    "duration": 6.94,
+    "loudness_lufs": -14.949986314720473,
+    "snr_estimate_db": -0.4398905038833618,
+    "max_significant_frequency_hz": 15859.375,
+    "sample_rate": 32000,
+    "prompt": "dark rock song with drums",
+    "genre": "rock",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_005_rock.wav",
+    "duration": 6.94,
+    "loudness_lufs": -12.868410674325567,
+    "snr_estimate_db": 6.666058540344238,
+    "max_significant_frequency_hz": 15359.375,
+    "sample_rate": 32000,
+    "prompt": "sad guitar rock music",
+    "genre": "rock",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_006_lofi.wav",
+    "duration": 6.94,
+    "loudness_lufs": -17.610491621313056,
+    "snr_estimate_db": 8.513532638549805,
+    "max_significant_frequency_hz": 14500.0,
+    "sample_rate": 32000,
+    "prompt": "calm piano lofi chill",
+    "genre": "lofi",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_007_lofi.wav",
+    "duration": 6.94,
+    "loudness_lufs": -18.328306977818674,
+    "snr_estimate_db": 32.6905517578125,
+    "max_significant_frequency_hz": 15093.75,
+    "sample_rate": 32000,
+    "prompt": "energetic lofi beat with drums",
+    "genre": "lofi",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_008_lofi.wav",
+    "duration": 6.94,
+    "loudness_lufs": -17.691367319473947,
+    "snr_estimate_db": 5.16209602355957,
+    "max_significant_frequency_hz": 15828.125,
+    "sample_rate": 32000,
+    "prompt": "happy synth lofi chill",
+    "genre": "lofi",
+    "mood": "dark"
+  },
+  {
+    "filename": "audio_009_electronic.wav",
+    "duration": 6.94,
+    "loudness_lufs": -21.37129650244071,
+    "snr_estimate_db": 12.33592414855957,
+    "max_significant_frequency_hz": 13218.75,
+    "sample_rate": 32000,
+    "prompt": "sad electronic track with piano",
+    "genre": "electronic",
+    "mood": "energetic"
+  },
+  {
+    "filename": "audio_010_electronic.wav",
+    "duration": 6.94,
+    "loudness_lufs": -14.908363002179081,
+    "snr_estimate_db": 18.08867835998535,
+    "max_significant_frequency_hz": 15312.5,
+    "sample_rate": 32000,
+    "prompt": "dark electronic track with drums",
+    "genre": "electronic",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_011_electronic.wav",
+    "duration": 6.94,
+    "loudness_lufs": -15.688742284503665,
+    "snr_estimate_db": 0.7580121755599976,
+    "max_significant_frequency_hz": 13203.125,
+    "sample_rate": 32000,
+    "prompt": "dark piano electronic music",
+    "genre": "electronic",
+    "mood": "sad"
+  },
+  {
+    "filename": "audio_012_hip-hop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -15.824215957948706,
+    "snr_estimate_db": -0.022137392312288284,
+    "max_significant_frequency_hz": 15187.5,
+    "sample_rate": 32000,
+    "prompt": "dark hip-hop beat with piano",
+    "genre": "hip-hop",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_013_hip-hop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -15.439095025415494,
+    "snr_estimate_db": 13.264335632324219,
+    "max_significant_frequency_hz": 15781.25,
+    "sample_rate": 32000,
+    "prompt": "energetic hip-hop beat with guitar",
+    "genre": "hip-hop",
+    "mood": "calm"
+  },
+  {
+    "filename": "audio_014_hip-hop.wav",
+    "duration": 6.94,
+    "loudness_lufs": -16.36913440887624,
+    "snr_estimate_db": 24.676280975341797,
+    "max_significant_frequency_hz": 15312.5,
+    "sample_rate": 32000,
+    "prompt": "energetic hip-hop beat with guitar",
+    "genre": "hip-hop",
+    "mood": "happy"
+  }
+]
