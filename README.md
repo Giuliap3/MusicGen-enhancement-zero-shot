@@ -1,30 +1,8 @@
 # MusicGen-enhancement-zero-shot
-Pipeline per restauro audio MusicGen: approcci DSP vs DSP+Demucs
-
+Pipeline per restauro audio __MusicGen__: approcci DSP vs Demucs+DSP
+## 👩‍💻 Autore: Giulia Pontesilli
 Questo progetto affronta il miglioramento della qualità audio nei campioni generati da MusicGen attraverso due pipeline: 
-* un approccio puramente tradizionale basato su funzioni DSP
-* un metodo ibrido che combina la separazione delle sorgenti mediante Demucs e un post-processing DSP
+* un approccio puramente tradizionale __DSP__ 💻: uso di funzioni e algoritmi matematici, senza modelli preaddestrati di ML 
+* un approccio ibrido che combina il modello preaddestrato __Demucs + un post-processing DSP__ 💻🤖: Demucs separa le sorgenti (drums, bass e other), queste ultime vengono sottoposte a un post-processing mirato e poi unite in modo bilanciato attraverso dei pesi
 
-# Installazione
-
-```bash
-git clone https://github.com/your-username/MusicGen-Audio-Restoration.git
-cd MusicGen-Audio-Restoration
-pip install -r requirements.txt
-
-torch>=2.0.0
-torchaudio>=2.0.0
-librosa>=0.10.0
-soundfile>=0.12.1
-matplotlib>=3.7.0
-seaborn>=0.12.2
-numpy>=1.24.0
-scipy>=1.10.0
-noisereduce>=1.0.0
-demucs>=6.0.0
-pyloudnorm>=0.1.0
-pydub>=0.25.1
-tqdm>=4.65.0
-transformers>=4.30.0
-ipython>=8.12.0
-pandas>=2.0.0
+## 📁 Repository Structure
