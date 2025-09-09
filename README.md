@@ -9,4 +9,4 @@ La valutazione degli audio avviene attraverso l'SNR, LUFS, la frequenza massima 
 ## 📁 Il repository contiene:
 - Notebook principale con il codice completo su Colab
 - Campioni audio originali e processati con DSP e Demucs+DSP 
-- Risultati e analisi delle metriche
+- Risultati, analisi delle metriche e metadati
